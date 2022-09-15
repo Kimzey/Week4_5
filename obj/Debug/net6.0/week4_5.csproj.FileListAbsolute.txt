@@ -1,0 +1,15 @@
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\bin\Debug\net6.0\week4_5.exe
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\bin\Debug\net6.0\week4_5.deps.json
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\bin\Debug\net6.0\week4_5.runtimeconfig.json
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\bin\Debug\net6.0\week4_5.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\bin\Debug\net6.0\week4_5.pdb
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.csproj.AssemblyReference.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.AssemblyInfo.cs
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\refint\week4_5.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.pdb
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\week4_5.genruntimeconfig.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_5\obj\Debug\net6.0\ref\week4_5.dll
